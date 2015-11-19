@@ -1,6 +1,6 @@
 {
   "name": "es6-dom",
-  "description": "Document ready listener using plain javascript and ES6 module syntax",
+  "description": "Simple DOM manipulation object for modern browser using plain javascript and ES6 module syntax",
   "url": "https://github.com/nickeljew/es6-dom",
   "homepage": "https://github.com/nickeljew/es6-dom",
   "keywords": [
@@ -18,7 +18,7 @@
     "es6"
   ],
   "author": "Nickel Jianhui Zhu <nickeljew@hotmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "private": false,
   "main": "index.js",
