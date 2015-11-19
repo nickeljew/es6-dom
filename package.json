@@ -18,10 +18,10 @@
     "es6"
   ],
   "author": "Nickel Jianhui Zhu <nickeljew@hotmail.com>",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "license": "MIT",
   "private": false,
-  "main": "index.js",
+  "main": "./lib/dom.js",
   "scripts": {},
   "dependencies": {},
   "peerDependencies": {},
