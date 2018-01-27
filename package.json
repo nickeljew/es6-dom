@@ -1,6 +1,10 @@
 {
   "name": "es6-dom",
   "description": "Simple DOM manipulation object for modern browser using plain javascript and ES6 module syntax",
+  "author": "Nickel Jianhui Zhu <nickeljew@hotmail.com>",
+  "version": "1.1.0",
+  "license": "MIT",
+  "private": false,
   "url": "https://github.com/nickeljew/es6-dom",
   "homepage": "https://github.com/nickeljew/es6-dom",
   "keywords": [
@@ -17,15 +21,22 @@
     "nodeById",
     "es6"
   ],
-  "author": "Nickel Jianhui Zhu <nickeljew@hotmail.com>",
-  "version": "1.0.0",
-  "license": "MIT",
-  "private": false,
   "main": "./lib/dom.js",
   "scripts": {},
+  "babel": {
+    "plugins": [],
+    "presets": [
+      "env"
+    ]
+  },
   "dependencies": {},
   "peerDependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^7.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nickeljew/es6-dom.git"

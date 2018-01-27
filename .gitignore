@@ -1,16 +1,8 @@
+.idea/
 
-.idea/.name
+.DS_Store
 
-.idea/es6-dom.iml
+node_modules
 
-.idea/jsLibraryMappings.xml
+*.log
 
-.idea/modules.xml
-
-.idea/misc.xml
-
-.idea/vcs.xml
-
-.idea/watcherTasks.xml
-
-.idea/workspace.xml
